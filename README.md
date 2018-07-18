@@ -1,2 +1,1 @@
-# vm_connect
-
+Arquivo Shell para conectar instâncias via ssh.
